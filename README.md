@@ -10,6 +10,7 @@ Welcome to the **Spot the Scam** project, A full stack data science solution tha
 
 👉 [GitHub Repository](https://github.com/ishan-kapoor/Anveshan-Hackathon-2025--Spot_the_Scam-) 
 👉 [Project Live URL](https://team-info-inquisitors-spot-the-scam.streamlit.app/) 
+👉 [Project Video Presentation Link](https://drive.google.com/file/d/12O5V36aN6724aygcHvi0c_NHYfytJCe_/view?usp=sharing) 
 
 ---
 
