@@ -57,8 +57,8 @@ It combines:
 Follow these steps to get the project running on your local machine:
 
 ### 1. **Clone the Repository**
-git clone https://github.com/your-username/spot-the-scam.git
-cd spot-the-scam
+- git clone https://github.com/ishan-kapoor/Anveshan-Hackathon-2025--Spot_the_Scam-
+- cd spot-the-scam
 
 ### 2. **Install Required Packages**
 pip install -r requirements.txt
