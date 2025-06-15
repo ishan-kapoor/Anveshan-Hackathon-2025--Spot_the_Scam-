@@ -1,35 +1,45 @@
 # 🕵️‍♂️ Spot the Scam - Job Fraud Detection
 
+Welcome to the **Spot the Scam** project, A full stack data science solution that detects **fraudulent job postings** using Natural Language Processing (NLP) and machine learning.
+
 **By Team: Info Inquisitors**
 
 **Members:**
-- **Ishan Kapoor** – ishankpor@gmail.com  
-- **Malya Kapoor** – malyakapoor4@gmail.com  
+- **Ishan Kapoor** – ishankpor@gmail.com  ( iitg_aiml_2503897 )
+- **Malya Kapoor** – malyakapoor4@gmail.com  ( iitg_aiml_25030028 )
+
+👉 [GitHub Repository](https://github.com/ishan-kapoor/Anveshan-Hackathon-2025--Spot_the_Scam-) 
+👉 [Project Live URL](https://team-info-inquisitors-spot-the-scam.streamlit.app/) 
 
 ---
 
 ## 🧠 Project Overview
 
-**Spot the Scam** is an intelligent fraud detection system designed to identify potentially fake job listings. With the rise of online employment scams, our solution aims to analyze job postings using machine learning and natural language processing (NLP) to predict the probability of fraud. 
+**Spot the Scam** is an intelligent fraud detection system designed to identify potentially fake job listings. It provides an **interactive Streamlit dashboard** where users can upload CSVs of job listings and receive predictions on whether each listing is likely to be **fraudulent or legitimate**.
 
-The system is suitable for:
-- Job boards verifying listings
-- HR teams screening job ads
-- Applicants avoiding scam jobs
+It combines:
+- NLP preprocessing
+- ML model inference
+- Data visualization
+- User-friendly UI
 
 ---
 
-## 🚀 Key Features & Technologies Used
+### 🚀 Key Features & Technologies Used
 
-### ✅ Features
-- Clean and preprocess raw job data (title + description)
-- Train Logistic Regression or Random Forest models
-- Predict fraud probability on new/unseen listings
-- Visualize:
-  - Distribution of fraud probabilities (histogram)
-  - Prediction class breakdown (genuine vs fraud)
-  - Top 10 most suspicious job listings
-- Retrain model easily on new labeled data
+#### ✅ Features
+- Upload CSVs of job listings with `title` and `description`
+- Predict and visualize fraud probabilities
+- Flag top suspicious listings
+- Visual analytics: histogram, pie chart, data table
+
+#### ⚙️ Tech Stack
+- Python
+- Streamlit (Dashboard)
+- scikit-learn (ML model)
+- Pandas, NumPy (Data handling)
+- Matplotlib / Seaborn (Plots)
+- Pickle (Model persistence)
 
 ### 🛠️ Tech Stack
 - **Python 3.10+**
@@ -47,9 +57,8 @@ The system is suitable for:
 Follow these steps to get the project running on your local machine:
 
 ### 1. **Clone the Repository**
-```bash
-git clone https://github.com/your-username/spot-the-scam.git
-cd spot-the-scam
+- git clone https://github.com/ishan-kapoor/Anveshan-Hackathon-2025--Spot_the_Scam-
+- cd spot-the-scam
 
 ### 2. **Install Required Packages**
 pip install -r requirements.txt
@@ -59,7 +68,6 @@ python src/preprocessing.py
 This reads data/train.csv and creates:
  - data/processed/processed_train.csv
  - data/processed/processed_test.csv
-
 
 ### 4. **Train the Model**
 python retrain.py
@@ -104,3 +112,6 @@ spot-the-scam/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+## 🧠 Project Video Presentation
+- Link: 
