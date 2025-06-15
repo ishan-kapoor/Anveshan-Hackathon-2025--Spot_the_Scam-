@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Spot the Scam - Job Fraud Detection
 
-Welcome to the **Spot the Scam** project — a full-stack data science solution that detects **fraudulent job postings** using Natural Language Processing (NLP) and machine learning.
+Welcome to the **Spot the Scam** project, A full stack data science solution that detects **fraudulent job postings** using Natural Language Processing (NLP) and machine learning.
 
 **By Team: Info Inquisitors**
 
@@ -10,6 +10,7 @@ Welcome to the **Spot the Scam** project — a full-stack data science solution 
 
 👉 [GitHub Repository](https://github.com/ishan-kapoor/Anveshan-Hackathon-2025--Spot_the_Scam-) 
 👉 [Project Live URL](https://team-info-inquisitors-spot-the-scam.streamlit.app/) 
+
 ---
 
 ## 🧠 Project Overview
