@@ -114,4 +114,4 @@ spot-the-scam/
 └── README.md
 
 ## 🧠 Project Video Presentation
-- Link: 
+- Link: https://drive.google.com/file/d/12O5V36aN6724aygcHvi0c_NHYfytJCe_/view?usp=sharing
