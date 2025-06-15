@@ -1,0 +1,15 @@
+# Core Data & ML
+pandas
+numpy
+scikit-learn
+# Visualization
+imbalanced-learn
+matplotlib
+seaborn
+# Web App
+streamlit
+# Utility
+joblib
+
+# Optional: for cleaning HTML (if you decide to use more advanced HTML cleaning later)
+# beautifulsoup4==4.12.3
