@@ -112,3 +112,6 @@ spot-the-scam/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+## 🧠 Project Video Presentation
+- Link: 
