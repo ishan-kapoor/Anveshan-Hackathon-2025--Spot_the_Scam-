@@ -1,12 +1,12 @@
-# 🕵️‍♂️ Spot the Scam - Job Fraud Detection
+# 🕵️‍♂️ Spot the Scam - Job Fraud Detection (Team: Info Inquisitors)
 
 Welcome to the **Spot the Scam** project, A full stack data science solution that detects **fraudulent job postings** using Natural Language Processing (NLP) and machine learning.
 
 **By Team: Info Inquisitors**
 
 **Members:**
-- **Ishan Kapoor** – ishankpor@gmail.com  ( iitg_aiml_2503897 )
-- **Malya Kapoor** – malyakapoor4@gmail.com  ( iitg_aiml_25030028 )
+- **Ishan Kapoor** – ishankpor@gmail.com, whatsApp No. +91 97112 54075  ( iitg_aiml_2503897 )
+- **Malya Kapoor** – malyakapoor4@gmail.com, whatsApp No. +91 89201 53272  ( iitg_aiml_25030028 )
 
 👉 [GitHub Repository](https://github.com/ishan-kapoor/Anveshan-Hackathon-2025--Spot_the_Scam-) 
 👉 [Project Live URL](https://team-info-inquisitors-spot-the-scam.streamlit.app/) 
